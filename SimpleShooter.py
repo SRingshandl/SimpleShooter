@@ -199,7 +199,7 @@ while gameactive:
                         gameactive = False
                         target_life = 100
 
-    # Fenster aktualisieren
+    # Update screen
     pygame.display.update()
 
 pygame.quit()
